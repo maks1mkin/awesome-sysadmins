@@ -791,6 +791,6 @@ VPN software.
 
 ## License
 
-![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+## License
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
